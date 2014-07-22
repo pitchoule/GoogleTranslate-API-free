@@ -1,7 +1,7 @@
 GoogleTranslate-API-free
 ========================
 
-GoogleTranslate-API-free est un projet PHP capable d'utiliser l'API Google Tradcution sans compte et sans restriction.
+GoogleTranslate-API-free est un projet PHP capable d'utiliser l'API Google Traduction sans compte et sans restriction.
 
 Requirements
 ===
