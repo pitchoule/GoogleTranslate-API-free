@@ -14,7 +14,7 @@ Pitchoule - Novice Developper PHP
 
 License
 ===
-Code is [Public Domain](UNLICENSE).
+Le Code es dans le [Domaine Public](UNLICENSE).
 
 
 Technical notes
