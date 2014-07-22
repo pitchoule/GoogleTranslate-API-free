@@ -12,8 +12,6 @@ Author
 ===
 Pitchoule - Novice Developper PHP
 
-Patch/contributors :
-
 License
 ===
 Code is [Public Domain](UNLICENSE).
